@@ -9,5 +9,3 @@ def factorial(n):
 
 x = factorial(5)
 print(x)
-four = 4   
-five = 5

@@ -5,3 +5,4 @@ def sum_of_numbers(n):
     return sum
 
 print(sum_of_numbers(5))
+one = 1
